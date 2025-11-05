@@ -1,0 +1,40 @@
+﻿{
+  "fallback_subjects": [
+    {
+      "id": 1,
+      "name": "Database Management",
+      "teacher_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Mathematics",
+      "teacher_id": 1
+    }
+  ],
+  "final_subjects": [
+    {
+      "id": 1,
+      "name": "Database Management",
+      "teacher_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Mathematics",
+      "teacher_id": 1
+    }
+  ],
+  "subjects_by_teacher": [
+    {
+      "id": 1,
+      "name": "Database Management",
+      "teacher_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Mathematics",
+      "teacher_id": 1
+    }
+  ],
+  "teacher_id": 1
+}
+
