@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Face Recognition Auto Attendance System
 
 A comprehensive face recognition-based attendance system with dual WiFi connectivity for classroom management.
@@ -131,3 +132,6 @@ For technical support or feature requests, please contact the development team.
 ## License
 
 This project is developed for educational purposes. Please ensure compliance with privacy laws when handling student data.
+=======
+# minor1
+>>>>>>> c22bd68fa1116490e6ef00f8ff686963965d877d
